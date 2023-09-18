@@ -1,0 +1,44 @@
+---
+title: "The role of social norms on adolescent family planning in rural Kilifi county, Kenya"
+type: "article"
+author: "<strong>Shaon Lahiri</strong>, Jeffrey B. Bingenheimer, Erica Sedlander, Rajiv Rimal"
+year: 2023
+publication: "PLOS ONE"
+pub-info:
+  links:
+    - name: Final Version
+      url: https://doi.org/10.1371/journal.pone.0275824
+      icon: fa-solid fa-file-pdf
+doi: https://doi.org/10.1371/journal.pone.0275824
+toc: false
+materials: "https://osf.io/ayc27/"
+categories:
+  - behavior change
+  - social norms
+  - kenya
+  - modern contraception
+  - Theory of Normative Social Behavior
+  - social networks
+---
+
+## Citation (APA 7)
+
+> Lahiri, S., Bingenheimer, J., Sedlander, E., Munar, W., & Rimal, R. (2023). The role of social norms on adolescent family planning in rural Kilifi county, Kenya. PloS one, 18(2), e0275824.
+
+## Abstract
+
+### Purpose
+
+Despite Kenya's encouraging progress in increasing access to modern contraception among youth, several barriers remain preventing large-scale efforts to reduce demand-side unmet need for family planning. Shifting social norms around the use and acceptability of modern contraception may represent a potent target for future interventions. However, the structure of normative influence on individual modern contraceptive use among youth needs to be determined. Therefore, our aim was to estimate the influence of individual and group-level normative influence on modern contraceptive use among adolescents from two villages in rural Kenya.
+
+### Methods
+
+Trained enumerators collected data from individuals aged 15--24 who provided oral informed consent, or parental informed consent, in two villages in rural Kilifi county. Participants completed a questionnaire related to modern contraceptive use and were asked to nominate one to five people (referents) with whom they spend free time. The enumerators photographed each individual who nominated at least one referent using Android phones and matched them with their nominated referents. Using this social network data, we estimated group-level normative influence by taking an average of referents' modern contraception use. We then explored associations between descriptive norms, injunctive norms, and network modern contraceptive use on individual modern contraceptive use, controlling for known confounders using logistic regression models. We also conducted sensitivity analyses to test a pattern of differential referent influence on individual modern contraceptive use.
+
+### Results
+
+There was a positive association between pro-modern contraception descriptive and injunctive norms and individual modern contraception use (adjusted Odds Ratio (aOR) = 1.29, 95% confidence interval (CI) = 1.05--1.6, and aOR = 1.31, CI = 1.06--1.62, respectively). Network modern contraceptive use was associated with individual use in the bivariate model (aOR = 2.57, CI = 1.6--4.12), but not in the multivariable model (aOR = 1.67, CI = 0.98--2.87). When stratified by sex and marital status, network modern contraceptive use was associated with individual modern contraceptive use among female participants (aOR = 2.9, CI = 1.31--6.42), and unmarried female participants (aOR = 5.26, CI = 1.34--20.69), but not among males. No interactive effects between norms variables were detected. Sensitivity analyses with a different estimate of network modern contraceptive use showed similar results.
+
+### Conclusions
+
+Social norms are multilevel phenomena that influence youth modern contraceptive use, especially among young women in rural Kenya. Unmarried women with modern contraceptive users in their social network may feel less stigma to use contraception themselves. This may reflect gendered differences in norms and social influence effects for modern contraceptive use. Future research should investigate group-level normative influence in relation to family planning behaviors.

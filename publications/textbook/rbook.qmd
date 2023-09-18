@@ -1,0 +1,20 @@
+---
+title: "Research Transparency, Reproducibility & Basic Data Analysis in R!"
+type: "textbook"
+author: "<strong>Shaon Lahiri</strong>"
+year: "2023"
+materials: "https://shaonl.github.io/Rbook/"
+categories:
+  - replication
+  - R
+  - reproducibility
+  - statistics
+  - open source
+  - data analysis
+---
+
+**Click on the cute cat below for textbook.**
+
+[![](/images/rbookcover.png)](https://shaonl.github.io/Rbook)
+
+Have you ever wanted to learn R but weren't sure where to start? In this beginner-friendly introduction, I provide an overview of the key components of using R for data analysis. I also provide several chapters to discuss issues related to the reproducibility and replication of scientific results. It's a cool and free e-textbook!

@@ -1,0 +1,64 @@
+---
+title: "Mixing and matching: using qualitative methods to improve quantitative impact evaluations (IEs) and systematic reviews (SRs) of development outcomes"
+type: "wp"
+author: "<strong>Shaon Lahiri</strong>, Rosaine N. Yegbemey, Neeta Goel, Lega Mathew, Jyotsna Puri"
+year: "2017"
+publication: "3ie Scoping Paper 8"
+doi: "https://doi-org/10.23846/sp0008"
+toc: false
+categories:
+  - systematic review
+  - WASH
+  - latrine use
+  - behavior change
+  - global health
+---
+
+## Citation (APA 7)
+
+> Lahiri, S., Yegbemey, R. N., Goel, N., Mathew, L., & Puri, J. (2017). Promoting Latrine Use in Rural India. *New Delhi, India: International Initiative for Impact Evaluation*.
+
+## Abstract
+
+Open defecation represents a major social and health burden for individuals, families
+and societies. India alone accounts for approximately 60 per cent of the global
+population defecating in the open, with the majority residing in rural India. Open
+defecation spreads diseases such as diarrhoea, schistosomiasis and trachoma and
+results in stunting and malnutrition of children. It can be dangerous and represent an
+affront to the dignity of vulnerable groups such as women, adolescent girls, the elderly
+and individuals with disabilities.
+
+This scoping study informs the focus of 3ie’s thematic window on Promoting Latrine Use
+in Rural India. It examines the state of rigorous evidence regarding latrine use in rural
+India, as well as benefitting from a consultation with experts and a field visit.
+We conducted a systematic literature search in March 2016 to answer the research
+question, ‘What is the state of quantitative evidence of latrine use in rural India?’ We
+were interested only in completed quantitative studies that examine latrine use as a
+primary or secondary outcome. Only 11 studies met inclusion criteria, and of these, four
+studies used experimental study designs. The marked lack of studies measuring causal
+change represents a critical knowledge gap and priority area that needs to be addressed
+by future research.
+
+We find that the most frequently cited barriers to latrine use were knowledge, attitudes
+and practices related to latrine use and poor quality of latrines. Latrine use is measured
+in various ways. The most common method is surveys that solicit self-reported latrine
+use in a household. We also examine correlations between latrine use and different
+subgroups and explore demand-driven approaches to promoting latrine use. The most
+common approaches to encourage demand in rural India are community mobilisation,
+such as Community-Led Total Sanitation. A clear finding from our review is that latrine
+design and functionality are important determinants of latrine use. Knowledge, attitudes
+and practices that inhibit latrine use must be addressed through reframing latrines as
+attractive commodities.
+
+Our findings lead to several recommendations for future research. First, effective
+sanitation efforts must give adequate weight to the sociohistorical nature of entrenched
+behaviours that have been reinforced by generations of habit. Shifting these behaviours
+requires multilevel interventions that target multiple determinants of behaviour. The use
+of psychosocial theories of behaviour change allows for a framework in which different
+intervention components can be tested. Second, sanitation efforts must conduct
+appropriate disaggregated and formative analyses to address the differential needs of
+and programme impacts on vulnerable populations such as women, children, individuals
+from lower socioeconomic classes and scheduled castes and tribes. Third, measuring
+latrine use is difficult, relies primarily on self-reporting and observation and is prone to
+bias. Future efforts should explore triangulating the measurement of latrine use through
+disaggregated survey instruments that combine observation and self-reporting.

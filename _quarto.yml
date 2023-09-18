@@ -11,11 +11,17 @@ website:
         text: About
       - href: CV.qmd
         text: CV
+      - href: research.qmd
+        text: Research
+      - href: Teaching.qmd
+        text: Teaching
       
 
 format:
   html:
-    theme: yeti
+    theme: 
+      light: yeti
+      dark: vapor
     css: styles.css
     toc: false
     page-layout: full

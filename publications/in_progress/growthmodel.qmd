@@ -1,0 +1,15 @@
+---
+title: "A Latent Growth Modeling Analysis of Social Norms and Tobacco Use among Adult Smokers in Mainland China."
+type: "in_progress"
+author: "<strong>Shaon Lahiri</strong>, Jeffrey B. Bingenheimer, Yan Wang, W. Douglas Evans, Ben Cislaghi"
+year: "In Preparation"
+categories:
+  - behavior change
+  - social norms
+  - tobacco
+  - social norms intervention
+---
+
+By fitting several latent growth models, we demonstrate that the influence of social norms on tobacco use for adult smokers in Mainland China exerts a significant effect on tobacco use over time, controlling for several factors such as level of addiction, exposure to pro-tobacco media, and many more. The paper also leverages a Bayesian estimator to fit a high-dimensional latent growth model. The data cover five waves of measurement over nine years, comprising a longitudinal sample of over 1,000 individuals.
+
+This paper is in preparation for submission to *Prevention Science.*

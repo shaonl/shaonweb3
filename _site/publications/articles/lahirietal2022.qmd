@@ -1,0 +1,27 @@
+---
+title: "Social and Gender Norms Influencing Sexual and Reproductive Health: Conceptual Approaches, Intervention Strategies, and Evidence"
+type: "article"
+author: "<strong>Shaon Lahiri</strong>, Elizabeth Costenbader, Jeffrey B. Bingenheimer"
+year: "2022"
+publication: "Oxford Research Encyclopedia of Global Public Health"
+doi: "https://doi.org/10.1093/acrefore/9780190632366.013.171"
+toc: false
+categories:
+  - behavior change
+  - gender norms
+  - social norms
+  - sexual and reproductive health
+  - social norms interventions
+  - HIV
+  - FGM/C
+---
+
+## Citation (APA 7)
+
+> Lahiri, S., Costenbader, E., & Bingenheimer, J. B. (2022). Social and Gender Norms Influencing Sexual and Reproductive Health: Conceptual Approaches, Intervention Strategies, and Evidence. In *Oxford Research Encyclopedia of Global Public Health*.
+
+## Abstract
+
+Research in diverse fields has examined how social and gender norms, broadly defined as informal rules of acceptable behavior in a given group or society, may influence sexual and reproductive health outcomes. One set of conceptual and empirical approaches has focused on perceptions of how commonly others perform a behavior and the extent to which others support or approve of the behavior. Another set of approaches has focused on how social norms emerge from structures of gender and power that characterize the social institutions within which individuals are embedded. Interventions intended to improve sexual and reproductive health outcomes by shifting social and gender norms have been applied across a wide range of populations and settings and to a diverse set of behaviors, including female genital mutilation/cutting, the use of modern contraceptive methods, and behavioral risk reduction for HIV. Norms-based intervention strategies have been implemented at multiple socioecological levels and have taken a variety of forms, including leveraging the influence of prominent individuals, using community activities or mass media to shift attitudes, and introducing legislation or policies that facilitate the changing of social norms.
+
+Recent advances in social and gender norms scholarship include the integration of previously disparate conceptual and empirical approaches into a unified multilevel framework. Although challenges remain in measuring social and gender norms and studying their impacts on sexual and reproductive health-related behaviors across cultures, the research will continue to shape policies and programs that impact sexual and reproductive health globally.

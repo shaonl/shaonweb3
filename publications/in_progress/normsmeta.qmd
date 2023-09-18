@@ -1,0 +1,16 @@
+---
+title: "Social Norms Change and Tobacco Use: A Systematic Review and Meta-Analysis of Interventions"
+type: "in_progress"
+author: "<strong>Shaon Lahiri</strong>, Jeffrey B. Bingenheimer, Yan Wang, W. Douglas Evans, Priyanka Dubey, Bobbi Snowden"
+year: "R&R"
+publication: "Addiction"
+categories:
+  - behavior change
+  - social norms
+  - tobacco
+  - social norms intervention
+---
+
+Through a systematic review, meta-analyses, and meta-regressions, we show that the evidence for social norms interventions on tobacco use is strong. Social norms interventions significantly change both social normative perceptions around tobacco use, as well as actual tobacco use. Several social norms change mechanisms are discussed, as well as a previously unrecognized mechanism based on Social Inoculation Theory.
+
+This paper is currently Revise & Resubmit at *Addiction*.

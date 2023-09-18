@@ -1,0 +1,22 @@
+---
+title: "Installations for Civic Culture: Behavioral Policy Interventions to Promote Social Sustainability"
+type: "article"
+author: "Paulius Yamin, Luis Artavia-Mora, Benita Martunaite, <strong>Shaon Lahiri</strong>"
+year: "2023"
+publication: "Sustainability"
+doi: "https://doi.org/10.3390/su15043825"
+toc: false
+categories:
+  - behavior change
+  - social norms
+  - colombia
+  - Installation Theory
+---
+
+## Citation (APA 7)
+
+> Yamin, P., Artavia-Mora, L., Martunaite, B., & Lahiri, S. (2023). Installations for Civic Culture: Behavioral Policy Interventions to Promote Social Sustainability. Sustainability, 15(4), 3825.
+
+## Abstract
+
+Achieving more equitable, safer, and resilient societies---crucial dimensions of social sustainability---depends on durable transformations in people\'s behavior. Traditional policy interventions attempt to influence people\'s behavior in different ways, such as increased policing, fines, or awareness campaigns, but often have limited effects because they fail to systematically address local determinants of behavior. In this paper, we analyze two complex behavioral policy interventions to illustrate how installation theory can provide a framework to systematically analyze and design for large-scale behavioral change to support social sustainability. We focus on two of Antanas Mockus\' iconic \"civic culture\" interventions to reduce deaths in traffic accidents and domestic violence in Colombia. To study them, we collected intervention reports, citizens\' narratives, creators\' accounts and press articles to identify their main characteristics and behavioral techniques. In our results, we find that the civic culture approach used in these two interventions addresses physical, psychological and social determinants of behavior in ways that reduce reactance and promote mutual regulation and collective agency. By unraveling the essential factors of behavioral influence, installation theory and related frameworks provide a useful guide to structure, analyze and report interventions that address the behavioral components of social sustainability.

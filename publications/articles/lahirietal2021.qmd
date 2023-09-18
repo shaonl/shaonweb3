@@ -1,0 +1,23 @@
+---
+title: "Social Norms Change and Tobacco Use: A Protocol for a Systematic Review and Meta-Analysis of Interventions"
+type: "article"
+author: "<strong>Shaon Lahiri</strong>, Jeffrey B. Bingenheimer, W. Douglas Evans, Yan Wang, Priyanka Dubey, Bobbi Snowden"
+year: "2021"
+publication: "International Journal of Environmental Research and Public Health"
+doi: "https://doi.org/10.3390/ijerph182212186"
+toc: false
+categories:
+  - systematic review 
+  - protocol
+  - meta-analysis
+  - social norms
+  - tobacco
+---
+
+## Citation (APA 7)
+
+> Lahiri, S., Bingenheimer, J. B., Evans, W. D., Wang, Y., Dubey, P., & Snowden, B. (2021). Social norms change and tobacco use: A protocol for a systematic review and meta-analysis of interventions. *International Journal of Environmental Research and Public Health*, *18*(22), 12186.
+
+## Abstract
+
+Tobacco use kills more than eight million individuals each year, and results in substantial economic and human capital loss across nations. While effective supply-side solutions to tobacco control exist, these approaches are less effective at promoting cessation among heavy smokers, and less feasible to implement in countries with weaker tobacco control policy environments. Thus, effective demand-side solutions are needed. Shifting social norms around tobacco use is one such promising approach. To this end, a systematic review and meta-analysis of social norms intervention studies to influence tobacco use will be conducted following PRISMA 2020 guidance. Tobacco intervention studies with at least two time points that explicitly mention social norms or social influence as part of an intervention or set of measured variables will be included. Literature sources will comprise PubMed, Scopus, PsycInfo, and the Cochrane Trial Registry, as well as several grey literature sources. Two reviewers will independently screen studies, and risk of bias will be assessed using the Cochrane Risk of Bias 2 and ROBINS-I tools. The primary outcomes will be change in tobacco use and change in social norms. A random-effects meta-analysis will be conducted for both outcomes. Sources of heterogeneity will be explored using meta-regression with key covariates. Non-reporting biases will be explored using funnel plots. PROSPERO: CRD42021251535.

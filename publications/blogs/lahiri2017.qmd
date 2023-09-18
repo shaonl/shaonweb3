@@ -1,0 +1,23 @@
+---
+title: "Promoting Latrine Use in Rural India: What does the evidence say?"
+type: "blogs"
+author: "<strong>Shaon Lahiri</strong>"
+year: "2017"
+publication: "3ie Evidence Matters Blog"
+doi: "https://www.3ieimpact.org/blogs/promoting-latrine-use-rural-india-what-does-evidence-say"
+toc: false
+categories:
+  - India
+  - WASH
+  - latrine use
+  - behavior change
+  - global health
+---
+
+## Citation (APA 7)
+
+> Lahiri, S. (2017). Promoting Latrine Use in Rural India: What does the Evidence Say? 3ie Evidence Matters Blog.
+
+## Abstract
+
+I discuss the findings of a recent systematic review to understanding promoting latrine use in Rural India. In particular, I highlight factors associated with successful latrine construction such as constructing a latrine's with one's own resources and to one's own specifications. I also discuss the paucity of theory-driven interventions in the space, and ethical issues that are emerging from the largest behavior change program in modern history. Finally, I discuss the difficulties in survey measurement related to understanding latrine use in rural India.

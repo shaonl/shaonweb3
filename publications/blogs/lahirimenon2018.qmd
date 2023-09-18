@@ -1,0 +1,23 @@
+---
+title: "Toilets are being constructed at a remarkable pace, but it’s not a Prem Katha [Love Story] yet for all sections of the population"
+type: "blogs"
+author: "<strong>Shaon Lahiri</strong>, Radhika Menon"
+year: "2018"
+publication: "The Times of India"
+doi: "https://timesofindia.indiatimes.com/blogs/toi-edit-page/toilets-are-being-constructed-at-a-remarkable-pace-but-its-not-a-prem-katha-yet-for-all-sections-of-the-population/"
+toc: false
+categories:
+  - India
+  - WASH
+  - latrine use
+  - behavior change
+  - global health
+---
+
+## Citation (APA 7)
+
+> Lahiri, S. & Menon, R. (2018). Toilets are being constructed at a remarkable pace, but it's not a Prem Katha \[Love Story\] yet for all sections of the population. Op-Ed in The Times of India.
+
+## Abstract
+
+We discuss how the Government of India's *Swachh Bharat Mission* (Clean India Mission) is going as it ends its fourth year. We highlight areas of concern that remain in achieving the ambitious goals of the Mission.

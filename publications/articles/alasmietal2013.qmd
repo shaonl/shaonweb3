@@ -1,0 +1,21 @@
+---
+title: "Types and sociodemographic correlates of complementary and alternative medicine (CAM) use among people with epilepsy in Oman"
+type: "article"
+author: "Abdullah Al Asmi, Abdullah Al Maniri, Yahya M. Al-Farsi, David T. Burke, Fatema M.H. Al Asfoor, Ibrahim Al Busaidi, Mohamed H.A. Al Breiki, <strong>Shaon Lahiri</strong>, Nady Braidy, Musthafa M. Essa, Samir Al-Adawi" 
+year: "2013"
+publication: "Epilepsy & Behavior"
+doi: "https://doi.org/10.1016/j.yebeh.2013.07.022"
+toc: false
+categories:
+  - complementary and alternative medicine
+  - epilepsy
+  - Oman
+---
+
+## Citation (APA 7)
+
+> Al Asmi, A., Al Maniri, A., Al-Farsi, Y. M., Burke, D. T., Al Asfoor, F. M., Al Busaidi, I., \... & Al-Adawi, S. (2013). Types and sociodemographic correlates of complementary and alternative medicine (CAM) use among people with epilepsy in Oman. *Epilepsy & Behavior*, *29*(2), 361-366.
+
+## Abstract
+
+Nonpharmacological [treatment](https://www-sciencedirect-com.proxy.library.upenn.edu/topics/medicine-and-dentistry/therapeutic-procedure "Learn more about treatment from ScienceDirect's AI-generated Topic Pages") strategies that originate from sociocultural teachings and are beyond the scope of [allopathic medicine](https://www-sciencedirect-com.proxy.library.upenn.edu/topics/medicine-and-dentistry/allopathic-medicine "Learn more about allopathic medicine from ScienceDirect's AI-generated Topic Pages") are commonly used among people with epilepsy (PWE) in many parts of the world. The present study explored the types and sociodemographic correlates of [complementary and alternative medicine](https://www-sciencedirect-com.proxy.library.upenn.edu/topics/medicine-and-dentistry/complementary-and-alternative-medicine "Learn more about complementary and alternative medicine from ScienceDirect's AI-generated Topic Pages") (CAM) use among PWE in Oman among attendees of a neurological unit at a tertiary care center. Data on the types of CAM were gathered from telephone interviews. The relevant demographic and clinical characteristics of the participants were obtained from [electronic medical records](#0 "Learn more about electronic medical records from ScienceDirect's AI-generated Topic Pages"). Of the total of 101 participants, 73.3% were CAM users. The majority of these participants have not disclosed their CAM use to their allopathic health-care providers. The most common types of CAM reported were those falling under the \'mind--body\' type (incantations and fumigation) and biologically based (herbal concoctions) or a combination of them. Compared to non-CAM users, a significant and greater proportion of CAM users attributed the etiology of their illness to nonbiomedical factors such as \'evil eyes\' (P = 0.04). The multivariate [logistic regression](#0 "Learn more about logistic regression from ScienceDirect's AI-generated Topic Pages") model indicated that the use of CAM was highly associated with age of \< 30 years (OR = 3.09; 95% CI: 1.10, 5.46), unemployment (OR = 2.04; 95% CI: 1.15, 6.39), having basic school education (OR = 2.21; 95% CI: 0.83, 5.18), low family income (OR = 1.52; 95% CI: 0.91, 2.11), and the presence of [hypersalivation](#0 "Learn more about hypersalivation from ScienceDirect's AI-generated Topic Pages") (OR = 2.20; 95% CI: 1.01, 4.39). Further studies are needed to harmonize these two healing practices. On the whole, this study indicates that among attendees of tertiary care utilization, CAM is common among PWE in Oman. The most utilized type of CAM falls under the umbrella of mind--body practice.

@@ -1,0 +1,81 @@
+---
+title: "Research"
+title-block-banner: "#4100AB"
+toc: true
+listing:
+  - id: textbook
+    contents: "publications/textbook/**.qmd"
+    template: ./ejs/article.ejs
+    categories: true
+  - id: articles
+    contents: "publications/articles/**.qmd"
+    template: ./ejs/article.ejs
+    categories: true
+    sort:
+      - "year desc"
+      - "title"
+  - id: encyclopedia
+    contents: "publications/encyclopedia/**.qmd"
+    template: ./ejs/article.ejs
+    categories: true
+    sort:
+      - "year desc"
+      - "title"
+  - id: working_papers
+    contents: "publications/working_papers/**.qmd"
+    template: ./ejs/article.ejs
+    categories: true
+    sort:
+      - "year desc"
+      - "title"
+  - id: blogs
+    contents: "publications/blogs/**.qmd"
+    template: ./ejs/article.ejs
+    categories: true
+    sort:
+      - "year desc"
+      - "title"
+  - id: in_progress
+    contents: "publications/in_progress/**.qmd"
+    template: ./ejs/article.ejs
+    categories: true
+    sort:
+      - "year desc"
+      - "title"
+page-layout: full
+include-back-link: false
+toc-location: right
+---
+
+My research spans a number of fields within global health and behavior change. My current focus is on the role of social norms across a number of behaviors, as well as understanding factors related to the implementation of behavior change interventions.
+
+## Textbooks
+
+::: {#textbook}
+:::
+
+
+## Journal Articles
+
+::: {#articles}
+:::
+
+## Encyclopedia Chapters
+
+::: {#encyclopedia}
+:::
+
+## Working Papers
+
+::: {#working_papers}
+:::
+
+## Research Blogs & Op-Eds
+
+::: {#blogs}
+:::
+
+## Under Review or Works in Progress
+
+::: {#in_progress}
+:::

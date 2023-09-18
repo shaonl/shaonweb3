@@ -1,0 +1,23 @@
+---
+title: "The Art and Science of Winning the Poo War"
+type: "blogs"
+author: "<strong>Shaon Lahiri</strong>, Jyotsna Puri"
+year: "2016"
+publication: "Business World"
+doi: "https://www.businessworld.in/article/The-Art-And-Science-Of-Winning-The-Poo-War/18-10-2016-107044/"
+toc: false
+categories:
+  - India
+  - WASH
+  - latrine use
+  - behavior change
+  - global health
+---
+
+## Citation (APA 7)
+
+> Lahiri, S. & Puri, J. (2016). The Art and Science of Winning the Poo War. Business World.
+
+## Abstract
+
+We discuss the many factors impeding realization of the the Government of India's *Swachh Bharat Mission* (Clean India Mission). We discuss the challenges of what it means to achieve Open Defecation Free status, and how to get people to use toilets.

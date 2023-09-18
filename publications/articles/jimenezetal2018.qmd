@@ -1,0 +1,22 @@
+---
+title: "Mixing and matching: using qualitative methods to improve quantitative impact evaluations (IEs) and systematic reviews (SRs) of development outcomes"
+type: "article"
+author: "Emmanuel Jimenez, Hugh Waddington, Neeta Goel, Audrey Prost, Andrew Pullin, Howard White, <strong>Shaon Lahiri</strong>, Anmol Narain"
+year: "2018"
+publication: "Journal of Development Effectiveness"
+doi: "https://doi-org/10.1080/19439342.2018.1534875"
+toc: false
+categories:
+  - systematic review
+  - impact evaluation
+  - mixed-methods
+  - qualitative research
+---
+
+## Citation (APA 7)
+
+> Jimenez, E., Waddington, H., Goel, N., Prost, A., Pullin, A., White, H., \... & Narain, A. (2018). Mixing and matching: Using qualitative methods to improve quantitative impact evaluations (IEs) and systematic reviews (SRs) of development outcomes. *Journal of Development Effectiveness*, *10*(4), 400-421.
+
+## Abstract
+
+Recent evaluations have begun to use qualitative data in a manner that helps improve the quality and relevance of studies through the inferences that are drawn from them, and their applicability to policy makers and programme implementers. This paper reviews this work and identifies good practices to integrate qualitative methods into quantitative impact evaluations (IEs) and systematic reviews (SRs). Using recent literature on the characteristics of such practices, we developed two tools to assess the methodological rigour and mixed methods integration of 40 IEs and 7 SRs, drawing upon previous approaches. Our findings are that successful mixed methods quantitative impact evaluations: (1) provide a clear rationale for integration of methods; (2) deploy multidisciplinary teams; (3) provide adequate documentation; and (4) acknowledge limitations to the generalisability of qualitative and quantitative findings. Successful integration tended to improve mixed methods impact evaluations by collecting better data to inform the study design and findings, which helped contextualise quantitative findings. Our main observation on the integration of mixed methods in the systematic reviews is that mixed methods systematic reviews bringing together literatures that answer different questions can go beyond the 'sum of their parts' to provide holistic answers about development effectiveness. The findings of this study inform several recommendations to improve the conduct and reporting of mixed methods impact evaluations and systematic reviews.

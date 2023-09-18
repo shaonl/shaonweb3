@@ -1,0 +1,31 @@
+[
+  {
+    "listing": "/pubs.html",
+    "items": [
+      "/publications/articles/yaminetal2023.html"
+    ]
+  },
+  {
+    "listing": "/research.html",
+    "items": [
+      "/publications/textbook/rbook.html",
+      "/publications/articles/yaminetal2023.html",
+      "/publications/articles/lahirietal2023.html",
+      "/publications/articles/snowdenetal2022.html",
+      "/publications/articles/levtovetal2022.html",
+      "/publications/articles/sedlanderetal2021.html",
+      "/publications/articles/lahirietal2021b.html",
+      "/publications/articles/lahirietal2021.html",
+      "/publications/articles/jimenezetal2018.html",
+      "/publications/articles/lahirietal2016.html",
+      "/publications/articles/alasmietal2013.html",
+      "/publications/encyclopedia/lahirietal2022.html",
+      "/publications/working_papers/lahirietal2017.html",
+      "/publications/blogs/lahirimenon2018.html",
+      "/publications/blogs/lahiri2017.html",
+      "/publications/blogs/lahiripuri2016.html",
+      "/publications/in_progress/normsmeta.html",
+      "/publications/in_progress/growthmodel.html"
+    ]
+  }
+]

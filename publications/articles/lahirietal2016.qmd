@@ -1,0 +1,23 @@
+---
+title: "The influence of humanitarian crises on social functioning among civilians in low- and middle-income countries: A systematic review"
+type: "article"
+author: "<strong>Shaon Lahiri</strong>, Mark van Ommeren, Bayard Roberts"
+year: "2016"
+publication: "Global Public Health"
+doi: "https://doi.org/10.1080/17441692.2016.1154585"
+toc: false
+categories:
+  - humanitarian crises
+  - mental health
+  - social functioning
+  - disability
+  - systematic review
+---
+
+## Citation (APA 7)
+
+> Lahiri, S., Van Ommeren, M., & Roberts, B. (2017). The influence of humanitarian crises on social functioning among civilians in low-and middle-income countries: A systematic review. *Global public health*, *12*(12), 1461-1478.
+
+## Abstract
+
+Our aim was to systematically review how social functioning is measured, conceptualised, impacted, and associated with mental disorders in populations affected by humanitarian crises. Quantitative studies conducted with civilian populations affected by humanitarian crises in low- and middle-income countries with outcomes of social functioning were examined up to 2014. Data sources included Medline, Embase, PsycInfo, and Global Health, and 8 grey literature sources, yielding 14,350 records, of which 20 studies met inclusion criteria. A descriptive synthesis analysis was used, and the final selected studies assessed for quality using a modified Newcastle-Ottawa Scale. In the 20 studies, social functioning was conceptualised in 6 categories: family functioning, friendship quality, functional impairment, overall social functioning, social adaptation, and social relations. Seventeen studies were cross-sectional, two were cohort, and one a controlled trial. The quality of the studies was generally moderate. The limited evidence suggests that social functioning is a relevant variable. Greater crisis exposure is associated with more severe depression and lower social functioning. The protective role of familial and social resources for social functioning is highlighted in different crisis settings. However, greater research on social functioning and mental health is required.
