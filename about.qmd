@@ -1,0 +1,84 @@
+---
+title: "Who is Shaon Lahiri?"
+title-block-banner: "#4100AB"
+---
+
+Interested in learning more about me, eh? You got it! Here's a quick pitch of who I am.
+
+::: callout-tip
+## Quick Pitch: Shaon Lahiri
+
+I am an interdisciplinary social & behavioral scientist based in the field of public health. My area of expertise is on the conceptualization, measurement, and analysis of social norms as they impact behavior, especially health-related behaviors. I employ a mixed-methods toolbelt when approaching research projects that aim to change behavior that have covered areas as diverse as women's labor force participation in the Middle East and North Africa, reducing tobacco use, increasing pre-exposure prophylaxis use among Black women in Washington DC, increasing modern contraception use in Kenya, understanding the social dimensions of poverty in the US, promoting latrine use in rural India, and reducing intimate partner violence in Rwanda.
+
+In short, **behavior change is my business, and business is hard!**
+:::
+
+Now, how about a quick summary of my employment and consulting history?
+
+## Employment History
+
+### Visual Summary
+
+![](images/employviz.png)
+
+### Detailed Summary
+
+**Postdoctoral Researcher** in the Philosophy, Politics & Economics program (2022 - present) \| University of Pennsylvania, Philadelphia, PA, USA.
+
+::: callout-note
+## Responsibilities
+
+I create and teach courses to advanced undergraduates in the Philosophy, Politics & Economics (PPE) program at the University of Pennsylvania. PPE is among the largest majors at the University of Pennsylvania, and continues to grow each year. Though the name is *PPE*, inspired by the model made famous by Oxford University in the 1920s, our program has a hidden 'P' of Psychology. That's where I come in. I create and teach seminars based in psychology for PPE majors (typically in their third or fourth years). You will find more information on these courses in the Teaching section of this website. I also mentor and advise students on honors theses and independent studies in topics of interest to them in the world of the social & behavioral sciences.
+:::
+
+**Graduate Teaching Assistant & Adjunct Lecturer** in the Milken Institute School of Public Health (2018 - 2022) \| The George Washington University, Washington, DC, USA.
+
+::: callout-note
+## Responsibilities
+
+I assisted faculty in teaching several public health courses to undergraduates and Master's students. More details on these courses can be found in the Teaching section of this website. As an adjunct lecturer in the GW online MPH program for the 2021 - 2022 academic year, I was the sole instructor of a course on research methods. The work also involved designing activities and assessments to supplement class teaching, mentoring students on their research and educational projects, and providing guest lectures on various public health topics.
+:::
+
+**Research Associate** in the Evaluation Office (2016 - 2018) \| The International Initiative for Impact Evaluation (3ie), New Delhi, India.
+
+::: callout-note
+## Responsibilities
+
+I supported the establishment and management of a \$4 million program to promote latrine use in rural India funded by the Gates Foundation. This involved grant management and administrative support related to the progress of nine formative studies, four impact evaluations, and one measurement study all conducted in rural India. I also supported the funding of a large program to improve the use of evidence in policy among a number of West African countries. The work also involved authoring manuscripts, writing grant proposals, presenting at conferences, teaching workshops, and support the mission of the organization in diverse ways.
+:::
+
+**Project Assistant** (2014 - 2015) \| UNICEF Oman, Muscat, Oman.
+
+::: callout-note
+## Responsibilities
+
+I supported the Country Representative and Operations Chief in the Oman country office with various tasks related to the UNICEF's Oman program. These included assisting with organizing conferences with relevant government line ministries, and supporting a consulting team with administrative support in their program to develop a national safety net program for the country. My responsibilities also included working with private industries to support ongoing programs by the Ministry of Health.
+:::
+
+**Research Assistant** (2010 - 2012) \| Addiction Research Center, University of Michigan, Ann Arbor, MI, USA.
+
+::: callout-note
+## Responsibilities
+
+I worked with a postdoctoral scholar on research projects related to alcohol addiction. My responsibilities mainly involved data entry for a longitudinal project on understanding trajectories of alcohol addiction, and qualitative coding for three treatment manuals for alcohol addiction. The work also involved drafting a manuscript on the role of positive psychology on treatment for alcohol addiction.
+:::
+
+## Consulting & Short Assignments
+
+**External Coding Consultant** (Sep 2022 & March 2023) \| Human Behavior Change Project, University College London, London, UK.
+
+**Interim Associate Director** (Oct 2022 to Jan 2023) \| Center for Social Norms and Behavioral Dynamics, University of Pennsylvania, Philadelphia, PA, USA.
+
+**Short-Term Consultant** (Summer 2019 & Summer 2020) \| Mind, Behavior, Development Group, The World Bank, Washington, DC, USA.
+
+**Research Assistant** (Summer 2019) \| Department of Prevention and Community Health, Milken Institute School of Public Health, The George Washington University, Washington DC, USA.
+
+**Psychiatric Intern** (Feb to Apr 2013) \| Sultan Qaboos University Hospital, Muscat, Oman.
+
+**Education Consulting** (Summer 2010) \| DIYSmart Consulting, Guangzhou, China.
+
+## Where I'm From and Where I'm Currently Based
+
+I am a citizen of India, having been born there and having lived there for 12 years. I have also lived in Oman for about 10 years, the USA for about 9 years, and the UK for one year. I also lived and worked in Guangzhou, China for two months.
+
+I am currently based in Philadelphia, PA, USA.

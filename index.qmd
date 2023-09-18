@@ -1,0 +1,49 @@
+---
+title: "Welcome!"
+image: images/shaon_standing.jpg
+title-block-banner: "#4100AB"
+about:
+  template: trestles 
+  image-shape: round
+  image-width: 23em
+  links:
+    - icon: book
+      text: My R Textbook
+      href: https://shaonl.github.io/Rbook
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/shaonlahiri/
+    - icon: github
+      text: GitHub
+      href: https://github.com/shaonl
+    - icon: envelope
+      text: Email
+      href: mailto:shaonl@sas.upenn.edu
+    - icon: building
+      text: Faculty Page
+      href: https://ppe.sas.upenn.edu/people/shaon-lahiri
+---
+
+## Hello There!
+
+My name is Shaon (it rhymes with 'brown') Lahiri, and thanks for checking out my personal website!
+
+How about a quick summary of my qualifications? What's that? You'd LOVE to see my qualifications? Great!
+
+## Current Appointments
+
+**Postdoctoral Researcher -** Philosophy, Politics & Economics program (2022 - present) \| University of Pennsylvania, Philadelphia, PA, USA.
+
+**Postdoctoral Fellow -** Center for Social Norms and Behavioral Dynamics (2022 - present) \| University of Pennsylvania, Philadelphia, PA, USA.
+
+**Associate Scholar** - Center for Global Health, Perelman School of Medicine (2023 - present) \| University of Pennsylvania, Philadelphia, PA, USA.
+
+**Catalyst -** Berkeley Initiative for Transparency in the Social Sciences (2021 - present) \| University of California - Berkeley, Berkeley, CA, USA.
+
+## Education
+
+**PhD in Social & Behavioral Sciences in Public Health** (2022) \| The George Washington University, Washington, DC, USA.
+
+**Master of Public Health** (2014) \| Imperial College London, London, UK.
+
+**BA in Psychology** (2012) \| University of Michigan - Ann Arbor, MI, USA.
