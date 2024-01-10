@@ -1,6 +1,6 @@
 ---
 title: "Download my current Curriculum Vitæ"
-date: today
+date: "January 10, 2024"
 published-title: "CV last updated:"
 title-block-banner: "#4100AB"
 engine: knitr
