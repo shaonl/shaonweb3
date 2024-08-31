@@ -18,10 +18,10 @@ about:
       href: https://github.com/shaonl
     - icon: envelope
       text: Email
-      href: mailto:shaonl@sas.upenn.edu
+      href: mailto:lahiris@cofc.edu
     - icon: building
       text: Faculty Page
-      href: https://ppe.sas.upenn.edu/people/shaon-lahiri
+      href: https://charleston.edu/health-human-performance/faculty/lahiri_shaon.php
 ---
 
 ## Hello There!
@@ -32,13 +32,13 @@ How about a quick summary of my qualifications? What's that? You'd LOVE to see m
 
 ## Current Appointments
 
-**Postdoctoral Researcher -** Philosophy, Politics & Economics program (2022 - present) \| University of Pennsylvania, Philadelphia, PA, USA.
+**Assistant Professor of Public Health** - Department of Health and Human Performance, School of Health Sciencesmics program (2024 - present) \| College of Charleston, Charleston, SC, USA.
 
-**Postdoctoral Fellow -** Center for Social Norms and Behavioral Dynamics (2022 - present) \| University of Pennsylvania, Philadelphia, PA, USA.
+**Affiliate** - Center for Social Norms and Behavioral Dynamics (2024 - present) \| University of Pennsylvania, Philadelphia, PA, USA.
 
 **Associate Scholar** - Center for Global Health, Perelman School of Medicine (2023 - present) \| University of Pennsylvania, Philadelphia, PA, USA.
 
-**Catalyst -** Berkeley Initiative for Transparency in the Social Sciences (2021 - present) \| University of California - Berkeley, Berkeley, CA, USA.
+**Catalyst** - Berkeley Initiative for Transparency in the Social Sciences (2021 - present) \| University of California - Berkeley, Berkeley, CA, USA.
 
 ## Education
 
