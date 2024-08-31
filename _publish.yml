@@ -1,6 +1,6 @@
 - source: project
   netlify:
     - id: 8b9eeae9-3952-45e3-bf4a-62635bfd4120
-      url: 'https://shaonlahiri.com'
+      url: 'https://www.shaonlahiri.com'
     - id: e63f9f71-c472-4f27-b182-46b3a7924301
       url: 'https://eclectic-crepe-67661a.netlify.app'
