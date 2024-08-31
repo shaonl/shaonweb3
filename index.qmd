@@ -1,7 +1,7 @@
 ---
-title: "Welcome!"
-image: images/shaon_standing.jpg
-title-block-banner: "#4100AB"
+title: "Welcome to my Personal Website!"
+image: images/Shaon Lahiri Headshot.jpg
+title-block-banner: "#800000"
 about:
   template: trestles 
   image-shape: round
