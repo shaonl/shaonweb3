@@ -5,13 +5,21 @@ title-block-banner: "#4100AB"
 
 I have been teaching undergraduate and Master's students since 2018, and greatly enjoy the process of developing course content and teaching. I have experience teaching courses in-person, online, and in a hybrid model. The following are a list of courses for which I have either been a teaching assistant or a sole instructor.
 
+## College of Charleston
+
+I develop and teach courses for undergraduates in the public health program at the College of Charleston.
+
+**HEAL 325. Health Promotion Planning and Evaluation** (Fall 2024).
+
 ## University of Pennsylvania 
 
-I create and teach courses for advanced undergraduates in the Philosophy, Politics & Economics program at the University of Pennsylvania.
+I developed and taught courses for advanced undergraduates in the Philosophy, Politics & Economics program at the University of Pennsylvania.
+
+**PPE 4850. Advanced Seminar in Research Methods** (Spring 2024).
 
 **PPE 4800. Social Norms, Networks, and Influence** (Fall 2023).
 
-**PPE 4800.** **Theories of Behavior Change** (Spring 2023).
+**PPE 4800. Theories of Behavior Change** (Spring 2023).
 
 **PPE 4800. Unpacking the Black Box: Tackling Big Issues in Social & Behavioral Science Interventions** (Fall 2022).
 
