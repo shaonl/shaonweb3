@@ -1,11 +1,10 @@
 ---
 title: "Download my current Curriculum Vitæ"
-date: June 20, 2024
 published-title: "Download or View my CV"
 title-block-banner: "#4100AB"
 engine: knitr
 cv:
-  pdf: "Shaon_Lahiri_Academic_CV.pdf"
+  pdf: "Shaon_CV.pdf"
 ---
 
 ```{css echo=FALSE}

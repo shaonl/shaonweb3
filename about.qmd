@@ -3,73 +3,33 @@ title: "Who is Shaon Lahiri?"
 title-block-banner: "#4100AB"
 ---
 
-Interested in learning more about me, eh? You got it! Here's a quick pitch of who I am.
-
 ::: callout-tip
-## Quick Pitch: Shaon Lahiri
+## Brief Bio: Shaon Lahiri
 
-I am an interdisciplinary social & behavioral scientist based in the field of public health. My area of expertise is on the conceptualization, measurement, and analysis of social norms as they impact behavior, especially health-related behaviors. I employ a mixed-methods toolbelt when approaching research projects that aim to change behavior that have covered areas as diverse as women's labor force participation in the Middle East and North Africa, reducing tobacco use, increasing pre-exposure prophylaxis use among Black women in Washington DC, increasing modern contraception use in Kenya, understanding the social dimensions of poverty in the US, promoting latrine use in rural India, and reducing intimate partner violence in Rwanda.
+I am an interdisciplinary social & behavioral scientist based in the field of public health. My area of expertise is on the conceptualization, measurement, and analysis of social norms as they impact behavior, especially health-related behaviors. I employ a mixed-methods toolkit when approaching research projects that aim to change behavior that have covered areas as diverse as women's labor force participation in the Middle East and North Africa, reducing tobacco use, increasing pre-exposure prophylaxis use among Black women in Washington DC, increasing modern contraception use in Kenya, understanding the social dimensions of poverty in the US, promoting latrine use in rural India, and reducing intimate partner violence in Rwanda. Recently, I have focused on understanding the mechanisms by which stigma results in adverse health outcomes among transgender and non-binary adults in the US. I am also investigating (with Paul Deutchman) the social emotion of cringe, and how to leverage it to change behavior.
 
-In short, **behavior change is my business, and business is hard!**
+In short, I study how to change human behavior to improve population-level health outcomes.
 :::
-
-Now, how about a quick summary of my employment and consulting history?
 
 ## Employment History
 
-### Visual Summary
+### Summary
 
-![](images/employviz.png)
+**Assistant Professor of Public Health** (2026 - present) in the Department of Health and Kinesiology, College of Applied Health Sciences \| University of Illinois Urbana-Champaign, Urbana, IL, USA.
 
-### Detailed Summary
+**Assistant Professor of Public Health** (2024 - 2026) in the Department of Public Health Sciences and Administration, School of Health Sciences \| College of Charleston, Charleston, SC, USA.
 
-**Assistant Professor of Public Health** in the Department of Health and Human Performance, School of Health Sciences (2024 - present) \| College of Charleston, Charleston, SC, USA.
+**Postdoctoral Researcher** (2022 - 2024) in the Philosophy, Politics & Economics program \| University of Pennsylvania, Philadelphia, PA, USA.
 
-::: callout-note
-## Responsibilities
+**Postdoctoral Fellow** (2022 - 2024) in the Center for Social Norms and Behavioral Dynamics \| University of Pennsylvania, Philadelphia, PA, USA.
 
-I teach courses related to public health to undergraduates. I also conduct research on behavior change mechanisms and interventions to improve population health outcomes.
-:::
-
-**Postdoctoral Researcher** in the Philosophy, Politics & Economics program (2022 - 2024) \| University of Pennsylvania, Philadelphia, PA, USA.
-
-::: callout-note
-## Responsibilities
-
-I create and teach undergraduate courses in the Philosophy, Politics & Economics (PPE) program at the University of Pennsylvania. PPE is among the largest undergraduate programs by size at the University of Pennsylvania, and continues to grow each year. Though the name is *PPE*, inspired by the model made famous by Oxford University in the 1920s, our program has a hidden 'P' of Psychology. That's where I come in. I create and teach seminars based in psychology for PPE majors (typically in their third or fourth year students). You will find more information on these courses in the Teaching section of this website. I also mentor and advise students on honors theses and independent studies in topics of interest to them in the world of the social & behavioral sciences.
-:::
-
-**Graduate Teaching Assistant & Adjunct Lecturer** in the Milken Institute School of Public Health (2018 - 2022) \| The George Washington University, Washington, DC, USA.
-
-::: callout-note
-## Responsibilities
-
-I assisted faculty in teaching several public health courses to undergraduates and Master's students. More details on these courses can be found in the Teaching section of this website. As an adjunct lecturer in the GW online MPH program for the 2021 - 2022 academic year, I was the sole instructor of a course on research methods. The work also involved designing activities and assessments to supplement class teaching, mentoring students on their research and educational projects, and providing guest lectures on various public health topics.
-:::
+**Graduate Teaching Assistant & Adjunct Lecturer** (2018 - 2022) in the Department of Prevention and Community Health, Milken Institute School of Public Health \| The George Washington University, Washington, DC, USA.
 
 **Research Associate** in the Evaluation Office (2016 - 2018) \| The International Initiative for Impact Evaluation (3ie), New Delhi, India.
 
-::: callout-note
-## Responsibilities
-
-I supported the establishment and management of a \$4 million program to promote latrine use in rural India funded by the Gates Foundation. This involved grant management and administrative support related to the progress of nine formative studies, four impact evaluations, and one measurement study all conducted in rural India. I also supported the funding of a large program to improve the use of evidence in policy among a number of West African countries. The work also involved authoring manuscripts, writing grant proposals, presenting at conferences, teaching workshops, and support the mission of the organization in diverse ways.
-:::
-
 **Project Assistant** (2014 - 2015) \| UNICEF Oman, Muscat, Oman.
 
-::: callout-note
-## Responsibilities
-
-I supported the Country Representative and Operations Chief in the Oman country office with various tasks related to the UNICEF's Oman program. These included assisting with organizing conferences with relevant government line ministries, and supporting a consulting team with administrative support in their program to develop a national safety net program for the country. My responsibilities also included working with private industries to support ongoing programs by the Ministry of Health.
-:::
-
 **Research Assistant** (2010 - 2012) \| Addiction Research Center, University of Michigan, Ann Arbor, MI, USA.
-
-::: callout-note
-## Responsibilities
-
-I worked with a postdoctoral scholar on research projects related to alcohol addiction. My responsibilities mainly involved data entry for a longitudinal project on understanding trajectories of alcohol addiction, and qualitative coding for three treatment manuals for alcohol addiction. The work also involved drafting a manuscript on the role of positive psychology on treatment for alcohol addiction.
-:::
 
 ## Consulting & Short Assignments
 
@@ -85,8 +45,50 @@ I worked with a postdoctoral scholar on research projects related to alcohol add
 
 **Education Consulting** (Summer 2010) \| DIYSmart Consulting, Guangzhou, China.
 
-## Where I'm From and Where I'm Currently Based
+## Where I'm Lived and Where I'm Currently Based
 
-I am a citizen of India. I was born there and lived there for about 12 years. I have also lived in Oman for about 10 years, the USA for about 10 years, the UK for one year, and Guangzhou, China for two months.
+I am a citizen of India. I was born there and lived there for about 12 years. I have also lived in Oman for about 10 years, the USA for about 12 years, the UK for one year, and Guangzhou, China for two months (see map below). 
 
-I am currently based in Charleston, SC, USA.
+**I am currently based in Champaign-Urbana, IL, USA.**
+
+<div id="cities-map" style="width: 100%; position: relative;"></div>
+<script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+<script src="https://cdn.jsdelivr.net/npm/topojson@3"></script>
+<script>
+const cities = [
+  {name:'Mumbai', lat:19.076, lon:72.8777},
+  {name:'Delhi', lat:28.6139, lon:77.2090},
+  {name:'Muscat', lat:23.5880, lon:58.3829},
+  {name:'Guangzhou', lat:23.1291, lon:113.2644},
+  {name:'London', lat:51.5074, lon:-0.1278},
+  {name:'Ann Arbor', lat:42.2808, lon:-83.7430},
+  {name:'Washington, DC', lat:38.9072, lon:-77.0369},
+  {name:'Philadelphia', lat:39.9526, lon:-75.1652},
+  {name:'Charleston', lat:32.7765, lon:-79.9311},
+  {name:'Champaign', lat:40.1164, lon:-88.2434}
+];
+const mapDiv = document.getElementById('cities-map');
+const tooltip = document.createElement('div');
+tooltip.style.cssText = 'position:fixed; pointer-events:none; background:white; border:1px solid #ddd; border-radius:6px; padding:4px 10px; font-size:13px; opacity:0; transition:opacity 0.1s; z-index:10;';
+mapDiv.appendChild(tooltip);
+const svg = d3.select(mapDiv).append('svg').attr('viewBox', '0 0 960 500').attr('width', '100%');
+const projection = d3.geoNaturalEarth1().scale(155).translate([480, 260]);
+const path = d3.geoPath(projection);
+d3.json('https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json').then(world => {
+  svg.selectAll('path').data(topojson.feature(world, world.objects.countries).features).join('path')
+    .attr('d', path).attr('stroke', 'white').attr('stroke-width', 0.5).attr('fill', '#D3D1C7');
+  svg.selectAll('circle').data(cities).join('circle')
+    .attr('cx', d => projection([d.lon, d.lat])[0])
+    .attr('cy', d => projection([d.lon, d.lat])[1])
+    .attr('r', 5).attr('fill', '#D85A30').attr('stroke', 'white').attr('stroke-width', 1)
+    .on('mousemove', (event, d) => {
+      tooltip.textContent = d.name;
+      tooltip.style.left = (event.clientX + 12) + 'px';
+      tooltip.style.top = (event.clientY + 12) + 'px';
+      tooltip.style.opacity = 1;
+    })
+    .on('mouseleave', () => { tooltip.style.opacity = 0; });
+});
+</script>
+
+

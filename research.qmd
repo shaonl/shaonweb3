@@ -1,81 +1,144 @@
 ---
 title: "Research"
 title-block-banner: "#4100AB"
-toc: true
-listing:
-  - id: textbook
-    contents: "publications/textbook/**.qmd"
-    template: ./ejs/article.ejs
-    categories: true
-  - id: articles
-    contents: "publications/articles/**.qmd"
-    template: ./ejs/article.ejs
-    categories: true
-    sort:
-      - "year desc"
-      - "title"
-  - id: encyclopedia
-    contents: "publications/encyclopedia/**.qmd"
-    template: ./ejs/article.ejs
-    categories: true
-    sort:
-      - "year desc"
-      - "title"
-  - id: working_papers
-    contents: "publications/working_papers/**.qmd"
-    template: ./ejs/article.ejs
-    categories: true
-    sort:
-      - "year desc"
-      - "title"
-  - id: blogs
-    contents: "publications/blogs/**.qmd"
-    template: ./ejs/article.ejs
-    categories: true
-    sort:
-      - "year desc"
-      - "title"
-  - id: in_progress
-    contents: "publications/in_progress/**.qmd"
-    template: ./ejs/article.ejs
-    categories: true
-    sort:
-      - "year desc"
-      - "title"
+toc: false
 page-layout: full
-include-back-link: false
+include-back-link: true
 toc-location: right
 ---
 
-My research spans a number of fields within global health and behavior change. My current focus is on the role of social norms across a number of behaviors, as well as understanding factors related to the implementation of behavior change interventions.
+I study social and behavioral processes that influence health outcomes with mixed-methods. My research is interdisciplinary and often draws upon psychology, economics, data science, sociology, communications, and gender studies within a public health framework. My research has covered populations in several countries. Aside from wide-ranging systematic reviews covering multiple countries, this map illustrates populations covered in country-specific studies.
 
-## Textbooks
+<div id="map" style="width: 100%; position: relative;"></div>
+<div style="display: flex; align-items: center; gap: 8px; margin-top: 12px; font-size: 12px; color: #555;">
+<span style="width: 10px; height: 10px; border-radius: 2px; background: #534AB7; display:inline-block;"></span>
+<span>Countries covered by my published country-specific studies</span>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+<script src="https://cdn.jsdelivr.net/npm/topojson@3"></script>
+<script>
+const covered = new Set(['United States of America','Colombia','Kenya','Rwanda','Oman','India','China']);
+const mapDiv = document.getElementById('map');
 
-::: {#textbook}
+const tooltip = document.createElement('div');
+tooltip.style.cssText = 'position:fixed; pointer-events:none; background:white; border:1px solid #ddd; border-radius:6px; padding:4px 10px; font-size:13px; opacity:0; transition:opacity 0.1s; z-index:10;';
+mapDiv.appendChild(tooltip);
+
+const svg = d3.select(mapDiv).append('svg').attr('viewBox', '0 0 960 500').attr('width', '100%');
+const path = d3.geoPath(d3.geoNaturalEarth1().scale(155).translate([480, 260]));
+
+d3.json('https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json').then(world => {
+  svg.selectAll('path').data(topojson.feature(world, world.objects.countries).features).join('path')
+    .attr('d', path).attr('stroke', 'white').attr('stroke-width', 0.5)
+    .attr('fill', d => covered.has(d.properties.name) ? '#534AB7' : '#D3D1C7')
+    .on('mousemove', (event, d) => {
+      tooltip.textContent = d.properties.name;
+      tooltip.style.left = (event.clientX + 12) + 'px';
+      tooltip.style.top = (event.clientY + 12) + 'px';
+      tooltip.style.opacity = 1;
+    })
+    .on('mouseleave', () => { tooltip.style.opacity = 0; });
+});
+</script>
+
+For the most up-to-date list of my publications, please see my [Google Scholar profile](https://scholar.google.com/citations?user=K44Uu4MAAAAJ&hl=en).
+
+Below, I highlight a few selected publications.
+
+
+## Selected Publications
+
+::: {.pub-grid}
+
+::: {.pub-card}
+<span class="pub-tag tag-ntr">Nicotine & Tobacco Research</span>
+
+#### Social norms change and cigarette smoking: a longitudinal study in mainland China
+
+<div class="authors">Lahiri, S., Bingenheimer, J.B., Wang, Y., Evans, W.D., & Cislaghi, B. (2026)</div>
+
+**Methods:** Bayesian latent growth curve models applied to 9 years of longitudinal survey data from adult smokers across 4 Chinese cities.
+
+**Key finding:** Stronger pro-smoking social norms — both perceptions of how common smoking is and how acceptable it is — predicted higher smoking levels over time, even after accounting for addiction severity and household smoking exposure.
+
+[View paper →](https://doi.org/10.1093/ntr/ntag052)
+:::
+
+::: {.pub-card}
+<span class="pub-tag tag-addiction">Addiction</span>
+
+#### Understanding the mechanisms of change in social norms around tobacco use
+
+<div class="authors">Lahiri, S., Bingenheimer, J.B., Evans, W.D., Wang, Y., Cislaghi, B., Dubey, P., & Snowden, B. (2025)</div>
+
+**Methods:** Systematic review and meta-analysis of tobacco intervention studies, searching Scopus, PubMed, PsycINFO, and several trial registries and grey-literature sources. Use of Robust Variance Estimation meta-analytic, meta-regression, and Egger's test models.
+
+**Key finding:** Synthesized a highly fragmented evidence base to clarify how different social norms change mechanisms (e.g., role-modeling, correcting misperceptions, resistance skills training) shift tobacco-related social norms and behavior, while identifying key gaps and reporting biases in the field. Largest meta-analysis of social norms interventions to date.
+
+[View paper →](https://doi.org/10.1111/add.16685)
+:::
+
+::: {.pub-card}
+<span class="pub-tag tag-copsyc">Current Opinion in Psychology</span>
+
+#### Resisting harmful social norms change using social inoculation
+
+<div class="authors">Lahiri, S. (2024)</div>
+
+**Methods:** Conceptual synthesis applying inoculation theory — originally developed to build resistance to persuasion — to the spread of harmful social norms.
+
+**Key finding:** Proposes social inoculation as a promising, evidence-informed strategy for helping people resist harmful norm shifts, particularly as misinformation accelerates how quickly such norms can spread online.
+
+[View paper →](https://doi.org/10.1016/j.copsyc.2024.101914)
+:::
+
+::: {.pub-card}
+<span class="pub-tag tag-plos">PLOS ONE</span>
+
+#### The role of social norms on adolescent family planning in rural Kilifi county, Kenya
+
+<div class="authors">Lahiri, S., Bingenheimer, J., Sedlander, E., Munar, W., & Rimal, R. (2023)</div>
+
+**Methods:** Survey of youth ages 15–24 in rural Kilifi County, Kenya, who each nominated up to 5 close social contacts; associations examined via logistic regression.
+
+**Key finding:** Peers' contraceptive use and perceived social norms around contraception were both linked to a young person's own likelihood of using modern contraception — highlighting social norms as a promising intervention target.
+
+[View paper →](https://doi.org/10.1371/journal.pone.0275824)
+:::
+
+::: {.pub-card}
+<span class="pub-tag" style="background-color:#5F5E5A;">International Journal of Disaster Risk Reduction</span>
+
+#### Multidisciplinary team processes parallel natural disaster preparedness and response: A qualitative case study
+
+<div class="authors">Lahiri, S., Snowden, B., Gu, J., Krishnan, N., Yellin, H., & Ndiaye, K. (2021)</div>
+
+**Methods:** Semi-structured interviews with members of a multidisciplinary university research initiative on natural disaster preparedness, analyzed as a qualitative case study.
+
+**Key finding:** Identified specific facilitators and barriers to cross-disciplinary collaboration at the outset of a research initiative, along with team members' attitudes and expectations about working across disciplines.
+
+[View paper →](https://doi.org/10.1016/j.ijdrr.2021.102369)
+:::
+
+::: {.pub-card}
+<span class="pub-tag" style="background-color:#993556;">Prevention Science</span>
+
+#### Improved relationship quality, equitable gender attitudes, and reduced alcohol abuse as key mechanisms to reduce intimate partner violence in the Bandebereho couples' randomized trial in Rwanda
+
+<div class="authors">Levtov, R.G., Doyle, K., Bingenheimer, J.B., Lahiri, S., Kazimbaya, S., Karamage, E., Sayinzoga, F., Mutoni, M., Rubayita, C.H., & Barker, G. (2022)</div>
+
+**Methods:** Structural equation modeling using two follow-up rounds of data from a randomized controlled trial of the Bandebereho couples' intervention in Rwanda, testing hypothesized pathways from treatment to reduced intimate partner violence.
+
+**Key finding:** Men's reduced alcohol use, more frequent communication, greater emotional closeness, less quarreling, and more equitable gender attitudes all improved significantly among intervention couples — identifying the specific mechanisms through which the program reduced violence.
+
+[View paper →](https://doi.org/10.1007/s11121-022-01445-6)
+:::
+
 :::
 
 
-## Journal Articles
 
-::: {#articles}
-:::
 
-## Encyclopedia Chapters
 
-::: {#encyclopedia}
-:::
 
-## Working Papers
 
-::: {#working_papers}
-:::
-
-## Research Blogs & Op-Eds
-
-::: {#blogs}
-:::
-
-## Under Review or Works in Progress
-
-::: {#in_progress}
-:::

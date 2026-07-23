@@ -1,7 +1,7 @@
 ---
-title: "Welcome to my Personal Website!"
-image: images/Shaon Lahiri Headshot.jpg
-title-block-banner: "#800000"
+title: "Welcome to my Personal Website"
+image: images/headshot_2026.jpg
+title-block-banner: "#FF5F05"
 about:
   template: trestles 
   image-shape: round
@@ -13,37 +13,45 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/shaonlahiri/
-    - icon: github
-      text: GitHub
-      href: https://github.com/shaonl
     - icon: envelope
       text: Email
-      href: mailto:lahiris@cofc.edu
+      href: mailto:lahiri2@illinois.edu
     - icon: building
       text: Faculty Page
-      href: https://charleston.edu/health-human-performance/faculty/lahiri_shaon.php
+      href: https://publish.illinois.edu/hkfocusareas/lahiri-shaon/
+    - icon: mortarboard-fill
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=K44Uu4MAAAAJ&hl=en
+    - icon: database
+      text: Open Science Framework
+      href: https://osf.io/wv7rg/
+    - icon: person-badge
+      text: ORCID
+      href: https://orcid.org/0000-0001-9797-9566
 ---
 
 ## Hello There!
 
-My name is Shaon (it rhymes with 'brown') Lahiri, and thanks for checking out my personal website!
+My name is Shaon (it rhymes with 'brown') Lahiri, and thanks for checking out my personal website.
 
-How about a quick summary of my qualifications? What's that? You'd LOVE to see my qualifications? Great!
+Here is a quick summary of my current appointments and qualifications.
 
 ## Current Appointments
 
-**Assistant Professor of Public Health** - Department of Health and Human Performance, School of Health Sciencesmics program (2024 - present) \| College of Charleston, Charleston, SC, USA.
+[**Assistant Professor of Public Health**]{style="background-color:#FF5F05; color:white; padding: 2px 8px; border-radius: 4px;"} - Department of Health and Kinesiology, College of Applied Health Sciences, University of Illinois Urbana-Champaign, Urbana, IL, USA.
 
-**Affiliate** - Center for Social Norms and Behavioral Dynamics (2024 - present) \| University of Pennsylvania, Philadelphia, PA, USA.
+**Associate Editor** - [*Nicotine & Tobacco Research*](https://academic.oup.com/ntr), Oxford Academic.
 
-**Associate Scholar** - Center for Global Health, Perelman School of Medicine (2023 - present) \| University of Pennsylvania, Philadelphia, PA, USA.
+**Junior Co-Chair -** Theories and Techniques of Behavior Change Interventions Special Interest Group, Society of Behavioral Medicine.
+
+**Research Affiliate** - Center for Global Health, Perelman School of Medicine (2026 - present) \| University of Pennsylvania, Philadelphia, PA, USA.
 
 **Catalyst** - Berkeley Initiative for Transparency in the Social Sciences (2021 - present) \| University of California - Berkeley, Berkeley, CA, USA.
 
 ## Education
 
-**PhD in Social & Behavioral Sciences in Public Health** (2022) \| The George Washington University, Washington, DC, USA.
+**Ph.D. in Social & Behavioral Sciences in Public Health** (2022) \| The George Washington University, Washington, DC, USA.
 
 **Master of Public Health** (2014) \| Imperial College London, London, UK.
 
-**BA in Psychology** (2012) \| University of Michigan - Ann Arbor, MI, USA.
+**B.A. in Psychology** (2012) \| University of Michigan - Ann Arbor, MI, USA.

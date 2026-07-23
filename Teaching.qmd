@@ -3,17 +3,41 @@ title: "Teaching"
 title-block-banner: "#4100AB"
 ---
 
-I have been teaching undergraduate and Master's students since 2018, and greatly enjoy the process of developing course content and teaching. I have experience teaching courses in-person, online, and in a hybrid model. The following are a list of courses for which I have either been a teaching assistant or a sole instructor.
+I have been teaching undergraduate and Master's students since 2018, and greatly enjoy the process of developing course content and teaching. I have experience teaching courses in-person, online, and in a hybrid model. The following are a list of courses for which I have either been a teaching assistant or a sole instructor. I've also provided three syllabi for undergraduate public health courses I developed. One is a visual syllabus, one is an accessible syllabus, and another is an interactive HTML syllabus.
+
+## University of Illinois Urbana-Champaign
+
+I develop and teach courses to undergraduate and Master's students in the College of Applied Health Sciences at the University of Illinois Urbana-Champaign.
+
+**HK 110. Contemporary Health** (Fall 2026).
+
+**HK 550. Research Methods in Health and Kinesiology** (Fall 2026).
 
 ## College of Charleston
 
-I develop and teach courses for undergraduates in the public health program at the College of Charleston.
+I developed and taught courses for undergraduates in the public health program at the College of Charleston.
 
-**HEAL 325. Health Promotion Planning and Evaluation** (Fall 2024).
+**PBHL 215. Introduction to Public Health** with a Special Focus on Race, Equity and Inclusion in Public Health Statistics (Fall 2025, Spring 2026).
 
-## University of Pennsylvania 
+[![](images/pbhl215_syllabus_cover.png){width="45%" fig-align="left"}](files/pbhl215_f25_syllabus.pdf)
 
-I developed and taught courses for advanced undergraduates in the Philosophy, Politics & Economics program at the University of Pennsylvania.
+**<span style="color:#FF5F05;">Click the visual syllabus above to view or download the full PDF.</span>**
+
+**PBHL 230. Global Health** (Spring 2025, Fall 2025, Spring 2026).
+
+[![](images/pbhl230_syllabus_cover.png){width="45%" fig-align="left"}](files/pbhl230_s26_syllabus.pdf)
+
+**<span style="color:#FF5F05;">Click the accessible syllabus above to view or download the full PDF.</span>**
+
+**PBHL 325. Health Promotion Planning and Evaluation** (Fall 2024, Spring 2025).
+
+[![](images/pbhl325_s25_syllabus.png){width="45%" fig-align="left"}](files/heal325_s25_syllabus.html)
+
+**<span style="color:#FF5F05;">Click the syllabus above to open the interactive HTML file.</span>**
+
+## University of Pennsylvania
+
+I developed and taught courses for undergraduates in the Philosophy, Politics & Economics (PPE) program at the University of Pennsylvania.
 
 **PPE 4850. Advanced Seminar in Research Methods** (Spring 2024).
 
@@ -27,7 +51,7 @@ I developed and taught courses for advanced undergraduates in the Philosophy, Po
 
 ## The George Washington University
 
-I was a teaching assistant for undergraduate and Master's students in public health for four years. I was also an adjunct lecturer (sole instructor) for an online course (PUBH 6052) for one year.
+I was a teaching assistant for undergraduate and MPH students for four years. I was also an adjunct lecturer for an online course (PUBH 6052) for one year.
 
 **PUBH 6052. Practical Data Management and Analysis for Public Health** (Fall 2021 & Spring 2022).
 
