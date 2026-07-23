@@ -1,12 +1,24 @@
 ---
 title: "Download my current Curriculum Vitæ"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+date: today
+published-title: "CV last updated:"
+=======
+date: June 20, 2024
+>>>>>>> origin/main
 published-title: "Download or View my CV"
+>>>>>>> origin/main
 title-block-banner: "#4100AB"
 engine: knitr
 cv:
   pdf: "Shaon_CV.pdf"
 ---
+<<<<<<< HEAD
+=======
 
+>>>>>>> origin/main
 ```{css echo=FALSE}
 .embed-container {
     position: relative;
