@@ -3,6 +3,7 @@ project:
 
 website:
   title: "Shaon Lahiri, PhD, MPH"
+  favicon: favicon.ico
   navbar:
     left:
       - href: index.qmd
@@ -15,6 +16,8 @@ website:
         text: Research
       - href: Teaching.qmd
         text: Teaching
+      - href: https://web.sas.upenn.edu/cringescale/
+        text: Cringe
       
 
 format:

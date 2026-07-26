@@ -1,5 +1,6 @@
 ---
 title: "Welcome to my Personal Website"
+pagetitle: "Shaon Lahiri, PhD, MPH"
 image: images/headshot_2026.jpg
 title-block-banner: "#FF5F05"
 about:
@@ -28,6 +29,9 @@ about:
     - icon: person-badge
       text: ORCID
       href: https://orcid.org/0000-0001-9797-9566
+    - icon: emoji-grimace
+      text: Take the Cringe Scale
+      href: https://shaonlahiri.shinyapps.io/The_Cringe_Scale/
 ---
 
 ## Hello There!
@@ -38,13 +42,15 @@ Here is a quick summary of my current appointments and qualifications.
 
 ## Current Appointments
 
-[**Assistant Professor of Public Health**]{style="background-color:#FF5F05; color:white; padding: 2px 8px; border-radius: 4px;"} - Department of Health and Kinesiology, College of Applied Health Sciences, University of Illinois Urbana-Champaign, Urbana, IL, USA.
-
-**Associate Editor** - [*Nicotine & Tobacco Research*](https://academic.oup.com/ntr), Oxford Academic.
-
-**Junior Co-Chair -** Theories and Techniques of Behavior Change Interventions Special Interest Group, Society of Behavioral Medicine.
+[**Assistant Professor of Public Health**]{style="background-color:#FF5F05; color:white; padding: 2px 8px; border-radius: 4px;"} - Department of Health and Kinesiology, College of Applied Health Sciences (2026 - present) \| University of Illinois Urbana-Champaign, Urbana, IL, USA.
 
 **Research Affiliate** - Center for Global Health, Perelman School of Medicine (2026 - present) \| University of Pennsylvania, Philadelphia, PA, USA.
+
+**Associate Editor** - [*Nicotine & Tobacco Research*](https://academic.oup.com/ntr) (2025 - present) \| Oxford Academic.
+
+**Junior Co-Chair ** - Theories and Techniques of Behavior Change Interventions Special Interest Group (2025-2028) \| Society of Behavioral Medicine.
+
+**Advisory Board Member** - Public Health \& Behavior Change (2025- present)  \| Artificial Intelligence for Impact Investment Lab ([AImpact](https://www.aimpactlab.com/about)).
 
 **Catalyst** - Berkeley Initiative for Transparency in the Social Sciences (2021 - present) \| University of California - Berkeley, Berkeley, CA, USA.
 
@@ -52,6 +58,6 @@ Here is a quick summary of my current appointments and qualifications.
 
 **Ph.D. in Social & Behavioral Sciences in Public Health** (2022) \| The George Washington University, Washington, DC, USA.
 
-**Master of Public Health** (2014) \| Imperial College London, London, UK.
+**Master of Public Health (Global Health Stream)** (2014) \| Imperial College London, London, UK.
 
 **B.A. in Psychology** (2012) \| University of Michigan - Ann Arbor, MI, USA.
