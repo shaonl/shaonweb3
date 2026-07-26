@@ -8,7 +8,7 @@ title-block-banner: "#4100AB"
 
 I am an interdisciplinary social & behavioral scientist based in the field of public health. My area of expertise is on the conceptualization, measurement, and analysis of social norms as they impact behavior, especially health-related behaviors. I employ a mixed-methods toolkit when approaching research projects that aim to change behavior that have covered areas as diverse as women's labor force participation in the Middle East and North Africa, reducing tobacco use, increasing pre-exposure prophylaxis use among Black women in Washington DC, increasing modern contraception use in Kenya, understanding the social dimensions of poverty in the US, promoting latrine use in rural India, and reducing intimate partner violence in Rwanda. Recently, I have focused on understanding the mechanisms by which stigma results in adverse health outcomes among transgender and non-binary adults in the US. I am also investigating (with Paul Deutchman) the social emotion of cringe, and how to leverage it to change behavior.
 
-In short, I study how to change human behavior to improve population-level health outcomes.
+In short, I study how to change human behavior to improve population health outcomes.
 :::
 
 ## Employment History
@@ -45,7 +45,7 @@ In short, I study how to change human behavior to improve population-level healt
 
 **Education Consulting** (Summer 2010) \| DIYSmart Consulting, Guangzhou, China.
 
-## Where I'm Lived and Where I'm Currently Based
+## Where I've Lived and Where I'm Currently Based
 
 I am a citizen of India. I was born there and lived there for about 12 years. I have also lived in Oman for about 10 years, the USA for about 12 years, the UK for one year, and Guangzhou, China for two months (see map below). 
 
